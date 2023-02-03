@@ -1,5 +1,10 @@
 # Getting Started with Create React App
 
+click here to view the App https://bright-shortbread-10a28e.netlify.app/
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
