@@ -2,6 +2,9 @@
 
 click here to view the App https://bright-shortbread-10a28e.netlify.app/
 
+![image](https://user-images.githubusercontent.com/84328259/216602129-7eda6e5e-a992-4c3d-b43d-fc2d19247ced.png)
+![image](https://user-images.githubusercontent.com/84328259/216602168-b906aa10-1cd4-43d6-983c-fde270c7a658.png)
+![image](https://user-images.githubusercontent.com/84328259/216602237-ce910e5f-c7c6-441f-aa5e-25f3c0290b4a.png)
 
 
 
